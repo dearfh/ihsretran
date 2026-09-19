@@ -1,0 +1,3 @@
+v 3
+d Dereje Fedasa, Dire Dawa University
+p ihsretran IHS Marginal Effects with Duan's Smearing Estimate
