@@ -60,6 +60,21 @@ To view the help file after installation, type:
     summarize price pred_price
 
 ---
+## Citation
+
+If you use `ihsretran` in your research or publications, please cite it as follows:
+
+bibtex
+@software{ihsretran,
+  author = {Fedasa, Dereje},
+  title = {ihsretran: Stata Module for Inverse Hyperbolic Sine Marginal Effects with Duan's Smearing Estimate},
+  year = {2026},
+  url = {https://github.com/dearfh/ihsretran}
+}
+## Contributing
+Contributions, bug reports, and feature requests are welcome! Please feel free to open an issue or submit a pull request on GitHub.
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## References
 
