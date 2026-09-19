@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 1.1.3  19sep2026}{...}
+{* *! version 1.1.0  19sep2026}{...}
 {vieweralsosee "[R] regress" "help regress"}{...}
 {vieweralsosee "[R] margins" "help margins"}{...}
 {viewerjumpto "Syntax" "ihsretran##syntax"}{...}
