@@ -11,7 +11,7 @@ This command implements **Duan’s (1983) nonparametric smearing estimate** to p
 * **Dereje Fedasa**
 * Department of Economics
 * Dire Dawa University, Ethiopia
-
+*Email:derejefedasaa@gmail.com
 ---
 
 ## Features
