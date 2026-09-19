@@ -1,5 +1,5 @@
 *! ihsretran.ado - Duan's smearing retransformation and marginal effects for IHS models
-*! Version 1.1.3 - 2026
+*! Version 1.1.0 - 2026
 *! Based on Edward C. Norton (2022), The Stata Journal
 
 program define ihsretran, rclass
