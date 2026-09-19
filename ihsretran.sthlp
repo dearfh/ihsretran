@@ -121,6 +121,8 @@ Norton, E. C. 2022. The inverse hyperbolic sine transformation and retransformed
 {pstd}
 {bf:Dereje Fedasa}{break}
 Department of Economics{break}
+Dire Dawa University, Ethiopia{break}
+{erm:derejefedasaa@gmail.com}{break}
 {break}
 Based on the methodology by Edward C. Norton (2022).
 {p_end}
