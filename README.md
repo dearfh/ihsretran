@@ -1,8 +1,10 @@
+code
+Markdown
 # ihsretran
 
 `ihsretran` is a user-written Stata module that calculates consistent marginal effects on the original scale of the outcome variable after estimating a linear regression where the dependent variable has been transformed using the inverse hyperbolic sine function (`asinh()`). 
 
-This command implements **Duan's (1983) nonparametric smearing estimate** to properly handle the retransformation problem, following the methodology outlined by **Edward C. Norton (2022)** in *The Stata Journal*.
+This command implements **Duan’s (1983) nonparametric smearing estimate** to properly handle the retransformation problem, following the methodology outlined by **Edward C. Norton (2022)** in *The Stata Journal*.
 
 ---
 
@@ -11,7 +13,7 @@ This command implements **Duan's (1983) nonparametric smearing estimate** to pro
 * **Dereje Fedasa**
 * Department of Economics
 * Dire Dawa University, Ethiopia
-*derejefedasaa@gmail.com
+
 ---
 
 ## Features
@@ -28,18 +30,23 @@ This command implements **Duan's (1983) nonparametric smearing estimate** to pro
 
 You can install `ihsretran` directly from GitHub by executing the following command in Stata:
 
-**stata
+```stata
 net install ihsretran, from("https://raw.githubusercontent.com/dearfh/ihsretran/main/")
 To view the help file after installation, type:
+code
+Stata
 help ihsretran
 Syntax
+code
+Stata
 ihsretran depvar indepvars [if] [in] [, scale(#) generate(newvar) level(#)]
-
 Options
 scale(#): Scaling factor multiplier for the dependent variable prior to transformation. Default is scale(1.0).
 generate(newvar): Generates a new variable containing retransformed predicted values on the original scale adjusted by Duan's smearing factor.
 level(#): Sets the confidence level for confidence intervals. Default is level(95).
 Quick Example
+code
+Stata
 * Load example dataset
 sysuse auto, clear
 
