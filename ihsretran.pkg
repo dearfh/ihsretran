@@ -1,8 +1,10 @@
 v 1.1.0
 d 'IHSRETRAN': Module to calculate IHS marginal effects with Duan's smearing estimate
 d 
-d Author: Dereje Fedasa
-d Support: email derejefedasaa@gmail.com
-d 
+d Author: Dereje Fedasa, Dire Dawa University
+d Support: derejefedasaa@gmail.com
+d Distribution-Date: 20260919
+d License: MIT
+d
 f ihsretran.ado
 f ihsretran.sthlp
