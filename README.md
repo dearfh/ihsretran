@@ -64,7 +64,6 @@ To view the help file after installation, type:
 
 If you use `ihsretran` in your research or publications, please cite it as follows:
 
-bibtex
 @software{ihsretran,
   author = {Fedasa, Dereje},
   title = {ihsretran: Stata Module for Inverse Hyperbolic Sine Marginal Effects with Duan's Smearing Estimate},
