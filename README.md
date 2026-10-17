@@ -8,7 +8,7 @@ This command implements **Duan's (1983) nonparametric smearing estimate** to pro
 
 ## Author
 
-* **Dereje Fedasa**
+* **Dereje Fedasa Hordofa**
 * Department of Economics
 * Dire Dawa University, Ethiopia
 *derejefedasaa@gmail.com 
